@@ -1,0 +1,9 @@
+Wei Shi
+================
+
+image::weishi.jpg[Wei Shi]
+
+About
+-----------------
+
+I am Wei Shi.
