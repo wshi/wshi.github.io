@@ -5,7 +5,7 @@ title : Atom Feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>The Beauty of System</title>
+ <title>The Beauty of Systems</title>
  <link href="http://wshi.net/atom.xml" rel="self"/>
  <link href="http://wshi.net"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
