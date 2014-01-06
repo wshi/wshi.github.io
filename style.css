@@ -1,0 +1,96 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 62.5%;
+	background: white;
+}
+
+p, li {
+	font: 1.2em/1.8em Tahoma, sans-serif;
+	margin-bottom: 10px;
+}
+
+h1 {
+	font: 2.0em Tahoma, sans-serif;
+	color: white;
+	height: 0px;
+}
+
+h2 {
+	font: 1.8em Tahoma, sans-serif;
+	color: green;
+	margin-bottom: 10px;
+}
+
+ul {
+	margin-left: 25px;
+}
+
+img {
+	border: none;
+}
+
+div.img
+  {
+  margin:blank;
+  border:blank;
+  height:auto;
+  width:auto;
+  float:middle;
+  text-align:center;
+  }
+div.img img/* This is a contextual selector. */
+  {
+  display:inline;
+  margin:blank;
+  border:blank;
+  }
+div.img a:hover img
+  {
+  border:blank;
+  }
+
+#first {
+	margin-top:10%;
+	}
+
+#page-wrap { /* id selector */
+	background: white;
+	min-width: 780px;
+	max-width: 1260px;
+	margin: 10px auto;
+	}
+	#page-wrap #inside {
+		margin: 10px 10px 0px 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	
+#main-content {
+	background: white;
+	padding-left: 230px;
+	padding-top: 20px;
+}
+	
+#header {
+	background: white;
+	text-align: center;
+}
+	
+#left-sidebar {
+	width: 150px;
+	float: left;
+	padding-left: 15px;
+	padding-top: 20px;
+}
+
+#footer {
+	font-size: 110%;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 20px;
+	color: black;
+}
