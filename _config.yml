@@ -1,4 +1,4 @@
-# baseurl: http://wshi.net
+baseurl: http://wshi.net
 permalink: /blog-cn/:categories/:year/:month/:day/:title
 markdown: rdiscount
 pygments: true
