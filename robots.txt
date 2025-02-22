@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wshi.github.io/sitemap.xml
